@@ -26,8 +26,11 @@ http://www.classicshell.net/translations/
 Open-Shell-Menu  
 https://github.com/Open-Shell/Open-Shell-Menu/releases
 
-**搜索快捷方式的工具ueli** 
+**搜索快捷方式的工具** 
+##ueli
 https://ueli.app/
+##utools
+https://u.tools/
 
 
 
