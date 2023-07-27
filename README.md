@@ -26,6 +26,9 @@ http://www.classicshell.net/translations/
 Open-Shell-Menu  
 https://github.com/Open-Shell/Open-Shell-Menu/releases
 
+**搜索快捷方式的工具ueli** 
+https://ueli.app/
+
 
 
 默认创建快捷方式位置为开始菜单C:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\apps  
